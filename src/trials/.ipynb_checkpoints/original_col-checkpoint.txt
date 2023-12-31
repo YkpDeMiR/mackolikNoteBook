@@ -66,19 +66,19 @@ cols
  'Alt45',---
  'Ust45',----
  'MSVE15AUKod',
- 'MS1VE15A',
- 'MS0VE15A',
- 'MS2VE15A',
- 'MS1VE15U',
- 'MS0VE15U',
- 'MS2VE15U',
+ 'MS1VE15A', -----
+ 'MS0VE15A',---
+ 'MS2VE15A',---
+ 'MS1VE15U',---
+ 'MS0VE15U',---
+ 'MS2VE15U',---
  'MSVE25AUKod',
- 'MS1VE25A',
- 'MS0VE25A',
- 'MS2VE25A',
- 'MS1VE25U',
- 'MS0VE25U',
- 'MS2VE25U',
+ 'MS1VE25A',--
+ 'MS0VE25A',--
+ 'MS2VE25A',--
+ 'MS1VE25U',--
+ 'MS0VE25U',--
+ 'MS2VE25U',--
  'MSVE35AUKod',
  'MS1VE35A',
  'MS0VE35A',
